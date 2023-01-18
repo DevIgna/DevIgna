@@ -10,8 +10,8 @@
 
 <h3>¿Quién Soy?<h3>
   
-Mi nombre es Ignacio Barrios, vivo actualmente en Argentina, San Juan y soy un recién Graduado como Full-Stack Developer de SoyHenry Bootcamp🥹.
-Mi gusto por la tecnología y su funcionamiento comienza desde mis 16 años, intrigado anteriormente por las típicas películas de Hollywood dando por comienzo a mi introducción a éste mundo, encontrando la programación y ejerciendo el tipo de programador que más me interesó, el "Web Development" y finalemente encontrando al SoyHenry Bootcamp. El cuál me dió paso a que empiece a estudiar otros lenguajes y herramentas, queriendo cada día aprender más y de los demás.
+<p>Mi nombre es Ignacio Barrios, vivo actualmente en Argentina, San Juan y soy un recién Graduado como Full-Stack Developer de SoyHenry Bootcamp🥹.
+Mi gusto por la tecnología y su funcionamiento comienza desde mis 16 años, intrigado anteriormente por las típicas películas de Hollywood dando por comienzo a mi introducción a éste mundo, encontrando la programación y ejerciendo el tipo de programador que más me interesó, el "Web Development" y finalemente encontrando al SoyHenry Bootcamp. El cuál me dió paso a que empiece a estudiar otros lenguajes y herramentas, queriendo cada día aprender más y de los demás.</p>
 
 <h3>¿Que Hago?<h3>
   
@@ -38,6 +38,7 @@ Uso:
   ORM - Base de Datos: {
   🔹Sequelize
   🔹MongoDB (con Mongoose)
+  🔹PostgreSQL
   }
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
