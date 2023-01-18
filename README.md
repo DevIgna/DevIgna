@@ -1,13 +1,50 @@
 <h1 align="center">¡Hola🤝, mi nombre es Ignacio!😁</h1>
 <h3 align="center">| Full-Stack Developer |</h3>
 
-- 🌱 I’m currently learning **Frameworks, Python, Ciberseguridad, etc.**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 💬 Ask me about **React, JavaScript, Express, etc.**
+<h2>Q&A:</h2>
 
-- 📫 How to reach me **igna.nazareno.barrios@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3>¿Quién Soy?<h3>
+  
+Mi nombre es Ignacio Barrios, vivo actualmente en Argentina, San Juan y soy un recién Graduado como Full-Stack Developer de SoyHenry Bootcamp🥹.
+Mi gusto por la tecnología y su funcionamiento comienza desde mis 16 años, intrigado anteriormente por las típicas películas de Hollywood dando por comienzo a mi introducción a éste mundo, encontrando la programación y ejerciendo el tipo de programador que más me interesó, el "Web Development" y finalemente encontrando al SoyHenry Bootcamp. El cuál me dió paso a que empiece a estudiar otros lenguajes y herramentas, queriendo cada día aprender más y de los demás.
+
+<h3>¿Que Hago?<h3>
+  
+Actualmente tengo muchisimas ganas de seguir aprendiendo más lenguajes como Python, TypeScript, Frameworks como Django, profundizar Libraries como ReactJS, ExpressJS y con ganas de empezar Ciberseguridad con Linux, etc.
+  
+<h3>¿A dónde me dirijo?<h3>
+  
+A especializarme en JavaScript para que sea mi lenguaje padre y crear muchos proyectos para aumentar mi percepción del código.
+
+<h3>¿Que tecnologías uso?<h3>
+  
+Uso:
+  Lenguaje: {
+  🔹JavaScript
+  }
+  Front-End o Lado del Cliente: {
+  🔹React
+  🔹Redux
+  🔹Tailwind
+  }
+  Back-End o Lado del Servidor: {
+  🔹Express
+  }
+  ORM - Base de Datos: {
+  🔹Sequelize
+  🔹MongoDB (con Mongoose)
+  }
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+<h3 align="left">😀 Contactame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ignadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignadev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21031614/ignacio-nazareno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="317954" height="30" width="40" /></a>
