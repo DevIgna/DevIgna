@@ -5,23 +5,25 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>Q&A:</h2>
+<h1>Q&A:</h1>
 
 
-<h3>👳🏻 ¿Quién Soy? 👳🏻</h3>
+<h2>👳🏻 ¿Quién Soy? 👳🏻</h2>
   
  Mi nombre es Ignacio Barrios, vivo actualmente en Argentina, San Juan y soy un recién Graduado como Full-Stack Developer de SoyHenry Bootcamp🥹.
  Mi gusto por la tecnología y su funcionamiento comienza desde mis 16 años, intrigado anteriormente por las típicas películas de Hollywood dando por comienzo a mi introducción a éste mundo, encontrando la programación y ejerciendo el tipo de programador que más me interesó, el "Web Development" y finalemente encontrando al SoyHenry Bootcamp. El cuál me dió paso a que empiece a estudiar otros lenguajes y herramentas, queriendo cada día aprender más y de los demás.
 
-<h3>🤔🖥 ¿Que Hago? 🖥🤔</h3>
+<h2>🤔🖥 ¿Que Hago? 🖥🤔</h2>
   
 Actualmente tengo muchisimas ganas de seguir aprendiendo más lenguajes como Python, TypeScript, Frameworks como Django, profundizar Libraries como ReactJS, ExpressJS y con ganas de empezar Ciberseguridad🌐 con Linux, etc.
   
-<h3>🔜🔜 ¿A dónde me dirijo? 🔜🔜</h3>
+  
+<h2>🔜🔜 ¿A dónde me dirijo? 🔜🔜</h2>
   
 A especializarme en JavaScript para que sea mi lenguaje padre y crear muchos proyectos para aumentar mi percepción del código.
 
-<h3>⚒⚙ ¿Que tecnologías uso? ⚙⚒</h3>
+
+<h2>⚒⚙ ¿Que tecnologías uso? ⚙⚒</h2>
 
   🟰Lenguaje:                                                                                                                                                           
   {                                                                                                                                                                       
