@@ -97,7 +97,7 @@ A especializarme en JavaScript para que sea mi lenguaje padre y crear muchos pro
   Linkedin                                                                                                                                                          </a>
 <a href="https://stackoverflow.com/users/21031614/ignacio-nazareno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="317954" height="30" width="40" />StackOverflow</a>
 <a href="https://discord.gg/wXAwnxzV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ignazareno_ #6813" height="30" width="40" />Discord</a>
-<a href="https://wa.me/qr/XDKIYK7M547XK1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Tel:" height="30" width="40" />Whatsapp</a>
+<a href="https://wa.me/542644187159?text=Español:%20Hola!%20Te%20comunicaste%20conmigo,%20presentate%20con%20tu%20nombre%20y%20tu%20duda/pedido%20que%20tengas.%20English:%20Hi!%20It%20seems%20that%20you%20want%20to%20communicate%20with%20me!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Tel:(+54)264 418-7159" height="30" width="40" />Whatsapp</a>
 </p>
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
